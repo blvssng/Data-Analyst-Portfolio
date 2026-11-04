@@ -4,6 +4,19 @@ An exploratory data analysis project investigating music streaming trends, track
 
 > **Project status:** Planned / in progress. Findings, charts, and model results will be added after the analysis has been completed. This README describes the research plan, not completed results.
 
+## Type of Analysis
+
+**Primary approach: Descriptive analysis.**
+
+This project asks which audio features are associated with popular tracks, how top-charting songs have changed over the past 10–20 years, and how Spotify's subscriber growth compares with its revenue. These questions can be explored by summarising historical data. I will use measures such as averages and distributions, trends over time, and comparisons across genres and years to describe what has happened in the data.
+
+Some parts of the project may extend beyond description:
+
+- **Diagnostic analysis** can help investigate possible reasons behind observed patterns—for example, why some genres grew or why certain audio features are associated with popularity. These relationships will be treated as observational, not proof of cause and effect.
+- **Predictive analysis** applies to the AI-generated music question, where I plan to evaluate a simple classifier that predicts whether a track is labelled AI-generated or human-made.
+
+Descriptive analysis is the foundation of the project, with diagnostic and predictive methods serving as extensions.
+
 ## Research Questions
 
 ### Music and audio trends
