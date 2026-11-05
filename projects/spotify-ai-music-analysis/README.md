@@ -12,11 +12,11 @@ The project will describe the labelled sample and compare AI-generated and human
 
 ## Research Questions
 
-- What share of tracks is labelled AI-generated in the selected dataset, and how does that share vary over time if release or upload dates are available?
-- How do labelled AI-generated and human-made tracks compare on available audio features, such as danceability, energy, tempo, and valence?
-- Where engagement measures are available, do they differ between the two groups?
-- How well can a baseline classifier distinguish AI-generated from human-made tracks, measured with accuracy, precision, recall, and F1 score?
-- How do dataset coverage, label definitions, class balance, and potential labelling errors affect the conclusions?
+- What share of tracks in the dataset is labelled as AI-generated, and how does that share vary over time where dates are available?
+- What audio characteristics are most common among AI-generated tracks in the selected dataset?
+- How do AI-generated tracks differ from human-made tracks on features such as danceability, energy, tempo, and valence?
+- Which patterns in AI-generated music are associated with higher engagement or popularity where such data is available?
+- How accurately can a baseline classifier identify AI-generated tracks using available audio features and metadata?
 
 ## Data Sources
 
